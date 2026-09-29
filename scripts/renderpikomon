@@ -1,0 +1,10 @@
+export const renderPikomon = (pikoHTML) => {
+    const pikomon = document.getElementById('pikolist');
+
+    if (pikolist) {
+        pikolist.innerHTML = pikoHTML;
+    }
+    else {
+        console.error('oops');
+    }
+}

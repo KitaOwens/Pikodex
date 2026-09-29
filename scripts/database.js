@@ -1,4 +1,4 @@
-const database = [
+export const pikobase = [
     {
         id: 1,
         name: 'Crouchy',
